@@ -1,6 +1,7 @@
 ### Hi there, I'm Faruq - aka BlessTheBoy 👋
 
 ## I'm a Front-End Developer, Designer, Programmer and budding Mechanical Engineer!
+![Twitter Follow](https://img.shields.io/twitter/follow/BlessTheBoy_?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 - 🔭 I’m currently working on more front-end Projects!
 - 🌱 I’m currently learning React.Js
