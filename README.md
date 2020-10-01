@@ -41,14 +41,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-  <!--START_SECTION:activity-->   
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="BlessTheBoy's Github Stats" src="https://github-readme-stats.blesstheboy.vercel.app/api?username=BlessTheBoy&show_icons=true&hide_border=true&hide=stars,contribs" />
